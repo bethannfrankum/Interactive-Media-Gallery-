@@ -152,8 +152,10 @@ img {
 
 @media screen and (min-width: 768px) {
     #adv-search {
-        width: 500px;
-        margin: 0 auto;
+        float: right;
+        width: 30%;
+        /*width: 500px;*/
+        margin-top: -55px;
     }
     .dropdown.dropdown-lg {
         position: static !important;
