@@ -392,7 +392,7 @@ img {
 .navbar-inverse .navbar-toggle {
     background-color: #34495e;
     border-color: #2c3e50;
-    margin-top: 23px;
+    /* margin-top: 23px;*/
 }
 
 .navbar-inverse .navbar-toggle:focus {
