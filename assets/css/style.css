@@ -810,7 +810,8 @@ fieldset[disabled] .form-control:focus {
 .testimgdiv {
     background-color: #fff;
     height: 400px;
-    width: 375px;
+    width: 350px;
+    float: left;
 }
 
 .carousel-control.left,
@@ -880,6 +881,8 @@ fieldset[disabled] .form-control:focus {
 
 .carousel-inner blockquote p {
     font-size: 36px;
+    width: 60%;
+    float: right;
 }
 
 .carousel-control .glyphicon {
