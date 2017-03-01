@@ -797,10 +797,14 @@ fieldset[disabled] .form-control:focus {
 }
 
 
-/*	Slider (testimonial)	==================================================*/
+/*	Slider (testimonials)	==================================================*/
 
 #slider {
     color: #FFF;
+}
+
+.dogparty {
+    border-radius: 10%;
 }
 
 .carousel-control.left,
