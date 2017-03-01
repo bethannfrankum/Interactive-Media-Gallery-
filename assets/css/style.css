@@ -803,8 +803,14 @@ fieldset[disabled] .form-control:focus {
     color: #FFF;
 }
 
-.dogparty {
-    border-radius: 10%;
+.testpic {
+    margin-top: 30px;
+}
+
+.testimgdiv {
+    background-color: #fff;
+    height: 400px;
+    width: 375px;
 }
 
 .carousel-control.left,
