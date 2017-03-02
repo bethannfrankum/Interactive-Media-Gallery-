@@ -154,7 +154,7 @@
             width: 30%;
             /*width: 500px;*/
             margin-top: -45px;
-            margin-right: -215px;
+            /* margin-right: -215px;*/
         }
         .dropdown.dropdown-lg {
             position: static !important;
