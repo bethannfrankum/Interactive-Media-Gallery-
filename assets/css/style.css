@@ -787,6 +787,15 @@
         }
     }
     
+    @media (max-width: 490px) {
+        .testimonialhunk {
+            margin-top: -100px;
+        }
+        .meg {
+            margin-left: 12px;
+        }
+    }
+    
     .testimgdiv {
         background-color: #fff;
         height: 400px;
