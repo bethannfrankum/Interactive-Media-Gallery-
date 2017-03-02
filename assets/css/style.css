@@ -1559,8 +1559,6 @@ screen and (max-height:300px) {
 
 /*	Common	==================================================*/
 
-.section {}
-
 .wrapsection {
     padding-top: 40px;
     padding-bottom: 40px;
@@ -1650,7 +1648,7 @@ screen and (max-height:300px) {
     }
     h2,
     .carousel-inner blockquote p {
-        font-size: 24px;
+        font-size: 18px;
     }
     h3 {
         font-size: 20px;
@@ -1668,7 +1666,7 @@ screen and (max-height:300px) {
         font-size: 18px;
     }
     .section {
-        padding: 60px 0;
+        /* padding: 60px 0;*/
     }
     .maintitle p.lead {
         margin-bottom: 40px;
