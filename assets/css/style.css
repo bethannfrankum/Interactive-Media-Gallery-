@@ -792,7 +792,7 @@
             margin-top: -100px;
         }
         .meg {
-            margin-left: 12px;
+            margin-left: 6px;
         }
     }
     
@@ -1590,7 +1590,7 @@
     @media (max-width:1024px) {
         .carousel-inner blockquote p {
             font-size: 26px;
-            width: 30%;
+            /* width: 100%;*/
             float: right;
         }
         .nav>li>a {
@@ -1627,6 +1627,9 @@
         #hero .herotext {
             padding: 90px 0px;
         }
+        .nav {
+            margin-left: 15px;
+        }
     }
     
     @media (max-width:767px) {
@@ -1638,6 +1641,7 @@
         }
         h2,
         .carousel-inner blockquote p {
+            width: 100%;
             font-size: 18px;
         }
         h3 {
